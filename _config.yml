@@ -21,7 +21,7 @@ tag_title_prefix:   "Posts tagged #"
 tag_title_suffix:   ""
 
 # Facebook settings
-fb_admins:          606660677
+fb_admins:          1504812712
 avatar:             "/public/images/me_hires.png"
 locale:             en_US
 
@@ -40,7 +40,7 @@ url:                 "http://vrepin.org"
 paginate_l:           4
 baseurl:             "/vr"
 
-paginate_langs:      ["en", "sv", "ru"]
+paginate_langs:      ["pt", "en"]
 
 # Assets
 #
