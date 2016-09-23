@@ -40,7 +40,7 @@ url:                 "http://bitfhacker.github.io"
 paginate_l:           4
 #baseurl:             "/"
 
-paginate_langs:      ["pt", "en"]
+paginate_langs:      ["en", "pt"]
 
 # Assets
 #
