@@ -38,7 +38,7 @@ title:               Bitfhacker
 tagline:             Deep in my thoughts
 url:                 "http://bitfhacker.github.io"
 paginate_l:           4
-baseurl:             "/"
+#baseurl:             "/"
 
 paginate_langs:      ["pt", "en"]
 
